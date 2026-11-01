@@ -2,7 +2,7 @@
 
 An analysis of allergen information on packaged foods sold in India, using crowd-sourced Open Food Facts data. Built with Python, SQL (SQLite) and Power BI.
 
-This project is based on the same domain as my app [Allergy Tracer](YOUR-APP-LINK): I built the app, then analyzed the kind of data it relies on.
+This project is based on the same domain as my website [Allergy Tracer](https://allergy-tracer.vercel.app): I built the website, then analyzed allergen data for the same domain.
 
 ## Questions
 1. Which allergens appear most often?
@@ -14,7 +14,7 @@ This project is based on the same domain as my app [Allergy Tracer](YOUR-APP-LIN
 ![Page 2: allergens by category](dashboard_page2.png)
 
 ## Key findings
-- **Allergen data is missing for most categories' products.** Only 378 of 899 products (42.05%) list any allergen. Beverages are the biggest gap: 8.9% (14 of 157) list allergens, compared with 83.3% of noodles and pasta and 78.3% of dairy.
+- **Allergen data is missing for most products.** Only 378 of 899 products (42.05%) list any allergen. Beverages are the biggest gap: 8.9% (14 of 157) list allergens, compared with 83.3% of noodles and pasta and 78.3% of dairy.
 - **Milk, gluten and soy dominate.** Among the 378 labeled products, milk appears in 56.6%, gluten in 51.6% and soy in 35.7%. Nuts (14.8%) and peanuts (12.7%) follow.
 - **Milk is concentrated in a few categories.** It appears in 100% of labeled dairy (36 products), 76.7% of biscuits and cookies (103) and 75.8% of chocolate and sweets (33).
 - **Nuts and peanuts cluster in snacks and cereals.** Plant-based staples (68.8%, 16 labeled products), other snacks (66.7%, 27) and cereals and breakfast (48.5%, 33) are highest. Biscuits are 11.7%, and noodles and beverages have none.
