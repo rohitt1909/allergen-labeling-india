@@ -1,0 +1,900 @@
+code,product_name,brands,category_group,has_allergen_data,has_traces_data,has_ingredients,has_nonstandard,has_milk,has_gluten,has_soybeans,has_nuts,has_peanuts,has_sesame_seeds,has_sulphur_dioxide_and_sulphites,has_mustard,has_eggs,allergen_data_status
+8901719134845,Parle-G Biscuit,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901719134852,Parle-G,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063139329,bourbon,britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8902080000227,Sting Energy,Sting,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8906010500764,balaji wafers chataka pataka,Balaji,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063093522,Good Day - Cashew Cookies,Britannia,Biscuits & cookies,1,0,1,0,1,1,1,1,0,0,0,0,0,Allergens listed
+8901058017687,maggi,Maggi,Noodles & pasta,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901063162914,Marie Gold Biscuit,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906010500559,Mung Dal,Balaji,Other snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764042911,Thums up,Thums up,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500245,Balaji Wafers Masala Sev Murmura,Balaji Wafers,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010502232,Balaji wafers panjabi tadka,Balaji,Salty snacks,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8906010500900,Wheelos Masala Flavour,Balaji Wafers,Salty snacks,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906010500023,POTATO WAFERS,Balaji,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764032912,Sprite,"Coca-Cola, Sprite",Beverages,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202225512,Original Oreo,Cadbury,Biscuits & cookies,1,1,1,0,0,1,1,0,0,0,1,0,0,Allergens listed
+8904043901015,Tata Salt,Tata,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058000290,maggi,Nestlé,Noodles & pasta,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+3948764032912,Sprite,"Coca-Cola, Sprite",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063092853,Good Day cashew cookie,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906017290040,Bisleri 1ltr MADE IN INDIA,Bisleri,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764042911,thums up,thumsup,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719129988,Happy happy - Parl,Parle,Biscuits & cookies,1,1,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+7622202334009,dairy milk,"Cadbury, Dairy Milk",Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500627,Chataka Pataka Tangy Tomato,Balaji,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030921667,kissan,Kissan,Condiments & sauces,1,1,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8901764092206,Maaza,"Mazza, The Coca-Cola Company",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030535895,Bru Instant Coffee,Bru,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030897542,kissan fresh tomato,Kissan,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764082405,Kinley Mineral Water 1ltr,Kinley,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500337,Aloo Sev,Balaji,Other snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063029255,Jimjam 57g (57),Britannia,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901491100519,Kurkure,Kurkure,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262010016,Amul Pasteurized Butter,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901764042904,Thumsup,Coca-Cola,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262200196,Amul Masti Spiced Buttermilk 200ml,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906010502119,Chataka pataka,Balaji,Salty snacks,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901764032707,Sprite,Coca Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010502294,Flaming hot nachos,,Salty snacks,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8906010500078,Balaji Farali Chivda,Balaji Namkeen,Other snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901491366052,Puffcorn,Kurkure,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901719135248,Krackjack,Parle,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906010501570,Balaji Wafers Crunchex,Balaji,Salty snacks,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8996001312506,Malkist Cheese Flavoured Crunchy Layered Cracker Biscuits,Mayora,Biscuits & cookies,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901058005233,Kitkat mini chocolate coated wafer,"KitKat, Nestle nutrition",Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8902080104581,Pepsi,Pepsi Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063023901,Marie Gold,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,1,0,0,Allergens listed
+8901030921797,kissan fresh tomato,"Kissan, Unilever",Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135118,MONACO,Parle,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063162532,Marie gold,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+3948764061257,Diet coke,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+89080153,Maggi masala magic,"Maggi, Maggie",Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764032905,Sprite,"Coca cola, Sprite",Beverages,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904272600291,Storia 100% Tender Coconut Water 1L,Storia Foods & Beverages,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764092305,Maaza Origina,HINDUSTAN COCA-COLA BEVERAGES PVT LTD.,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8901595862962,Schezwan Chutney,Ching's Secret,Other / unknown,1,1,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8901262260121,Amul Taaza Milky Milk,"Amul, Amul taaza",Dairy,1,1,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906010500863,Shing Bhujiya - Nimbu Chatka,Balaji Wafers,Salty snacks,1,0,1,0,0,0,1,0,1,0,0,0,0,Allergens listed
+8901491361026,Kurkure Masala Munch,"Kurkure, PepsiCo",Biscuits & cookies,1,0,1,0,1,0,1,1,0,1,1,0,0,Allergens listed
+8901764061257,Diet Coke Can 250ml,Coke,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500481,Crunchm,Balaji,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725016258,Dark fantasy bourbon,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764042706,Thumsup,Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764362804,Pulpy Orange,Minute Maid,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004402636,,Haldiram's,Salty snacks,0,1,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719123870,Parle-G 250g,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+3948764032707,Sprite,Coca-Cola Company,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906032018513,Doodh Biscuits,Patanjali,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+8901764042300,Thums Up,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725118938,Bingo Tedhe Medhe,Bingo,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764032301,Sprite,Sprite,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500016,Simply Salted,Balaji Wafers,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491001168,Masala munch,Kurkure,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500214,Balaji Wafers Sev Murmura,Balaji Wafers,Cereals & breakfast,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901719121630,20-20,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719105913,parle hide & seek 120g,PARLE,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901030831690,kissan mixed fruit jam,kissan,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719130014,Happy happy biscuit - Parle - Parle,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764042904,Thumbs Up,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400731,Aloo Bhujia Sev,Haldiram's,Salty snacks,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906032018520,Patanjali,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400236,Haldiram's Soya sticks,Haldirams,Other snacks,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8904004403718,Moong Dal,Haldiram's,Other snacks,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901499008169,Chocos,Kellogg's,Chocolate & sweets,1,1,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906010500818,Potato chips,Balaji,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202225550,Oreo choco,Cadbuary,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764032301,Sprite,Sprite,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491101844,Lay's Potato Chips,Lay's,Salty snacks,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719117183,Hide & Seek,"Parle, Parle platina",Biscuits & cookies,1,1,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8904004403732,Haldiram moong dal,Haldiram,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+6291100213146,UAE by,Date Crown,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262010320,Amul Butter,AMUL,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+5999884034469,HELL,Hell,Beverages,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8906010501228,Scoopitos Masala Flavour,Balaji Wafers,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135217,Krackjack,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901030902932,Fresh Tomato Ketchup,Kissan,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491103794,Quaker Oats,"Pepsico, Quaker",Cereals & breakfast,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901499010513,"Muesli Fruit, Nut & Seeds",Kellogg's,Cereals & breakfast,1,1,1,0,0,1,0,1,0,0,1,0,0,Allergens listed
+8901063093287,Good Day Cashew Cookies,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,1,0,0,0,0,0,Allergens listed
+8904327600924,Myfitness Peanut Butter,Myfitness,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030922787,Mixed Fruit Jam,Kissan,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491366229,Kurkure Solid Masti Masala Twisteez Crisps,PEPSICO INDIA HOLDINGS PVT LTD,Salty snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8909106018327,Boost,"Boost, Unilever",Beverages,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+846203004878,Bakarwadi,Chitale,Other / unknown,1,0,1,0,0,1,0,0,0,1,0,0,0,Allergens listed
+8901063092839,Good day 5rs,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063014411,Vita Marie Gold,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+3948764032905,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491503051,West Indies' Hot 'n' Sweet Chilli flavor,Lay's,Salty snacks,1,1,1,0,1,1,0,1,1,0,1,0,0,Allergens listed
+8902579001360,Frooti 125ml,Frooti,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058000306,Maggie Masala Noodles 560G,Maggi,Noodles & pasta,1,0,1,0,1,1,1,0,0,0,0,1,0,Allergens listed
+8902579002039,appy fizz,parle agro appy fizz,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8903754000062,Tata water 1ltr,Tata,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+4897036693469,,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080504060,Packaged Drinking Water,"Aquafina is sold by PepsiCo, PepsiCo",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+89002940,Coconut oil,Parachute,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725015275,Dark Fantasy Choco fills,"Sunfeast, Sunfeast is sold by ITC Limited",Biscuits & cookies,1,1,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901725005856,Yippee Magic Masala,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004402612,,Haldiram's,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764012914,Coca-Cola,The Coca-Cola Company,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+90162602,Red Bull Energy Drink,Red Bull,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207025365,Honey,Dabur,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902579203016,Packaged Drinking Water,"Bailey, Parle Agro",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764082405,Kinley 1ltr,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500870,BALAJI CREAM ONION,balaji,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764092206,Maaza,The Coca-Cola Company,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725118921,tedha medha,bingo,Salty snacks,1,1,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901719135088,Monaco,Parle,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202324321,,Dairy Milk,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058903164,KitKat win gold,Nestlé,Biscuits & cookies,1,0,1,0,1,1,1,1,0,1,0,0,0,Allergens listed
+8901123001214,Lotte Choco Pie,Lotte,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901063019188,Little Hearts,Brotannica,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010502973,Papdi gathiya,,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500047,masala masti,Balaji,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135729,Biscuit,Parle G,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764012273,Coca Cola Coke Brand 750ml,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764175091,Fruit drink,Maaza,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764012914,Cocacola zero,Cocacola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906017290033,Bisleri,BISLERI,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088068734,Saffola Masala Oats - Classic Masala,Saffola,Cereals & breakfast,1,0,1,1,0,1,0,0,0,0,0,0,0,Allergens listed
+8901764042270,Thumbs Up 750ml,Coca Cola Company,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491101813,Lays american cream onion,"Lay's, PepsiCo",Salty snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901063139213,Brit bourbon 150g (sys),Britannia,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901063014299,Britannia Vita Marie Gold Biscuits,Britannia Industries Ltd.,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+4897036691427,Monster Energy Drink 350ml,"Monster, Monster Energy",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906017290064,Bisleri Water Bottle,Bisleri,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908003872315,Poha,,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135255,Krackjack,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901491503020,Lays India's Magic Masala,Lay's,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262070546,Chocominis,Amul,Chocolate & sweets,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8904004403725,Moong Dal,Haldiram's,Salty snacks,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+89009758,NESCAFE classic,Nescafe,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063019201,8901063019201,Britannia,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058023787,2-minute noodles masala taste,Maggi,Noodles & pasta,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901764032271,Sprite 750ml,coca cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491101837,Lays Classics Salted 20rs,Lay's,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491503037,American Style Cream & Onion 10rs,"Lay's, PepsiCo",Salty snacks,1,1,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8902579103057,Frooti,Parle,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063029279,Jimjam,Britannia,Biscuits & cookies,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901764092800,Maaza,Coca-Cola Company,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904043551548,Modern 100% Whole Wheat Bread,Modern,Cereals & breakfast,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8903553601613,Mango Pickle,RAM BANDHU,Plant-based staples,1,0,1,0,0,0,0,0,0,0,0,1,0,Allergens listed
+8904004402216,Haldiram Phulhari,Haldiram,Salty snacks,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8906010504625,8906010504625,Gippi,Salty snacks,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8901063016873,50-50,Britannia,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719131219,Parle g 800 g,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906001023043,Gowardhan pure cow ghee 500ml,Gowardhan,Other / unknown,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8902080003075,nimbooz,7up,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202237393,Bournvita 70g,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400779,Haldiram's Aloo Bhujia,Haldiram's,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725007102,Bingo,Itc,Salty snacks,1,1,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901595873258,Smith & Jones Ginger Garlic Paste,Smith and Jones,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904083303077,Farm Fresh Sahi Plain Yoghurt,Milky Mist,Dairy,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004401554,Masala Sev Murmura,Haldiram's,Other snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063142664,britannia,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8902346034867,,,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+3948764092305,3948764092305,,Condiments & sauces,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400694,Aloo Bhujia,Haldiram's,Cereals & breakfast,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500276,Balaji Wafers Shing Bhujia,Balaji Wafers,Salty snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8904071704527,Plantain Chips (Yellow Banana Chips),,Other snacks,1,0,1,0,1,1,1,1,0,1,0,1,0,Allergens listed
+8906010502041,,Balaji Wafers,Salty snacks,1,0,1,0,0,0,0,0,0,0,0,1,0,Allergens listed
+8908000794023,Pasteurised full cream milk,Gokul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901719135224,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262180115,malai paneer fresh,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8902080002283,7up,PepsiCo Inc.,Beverages,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764072277,kinley. ORIGINAL STRONG SODA,kinley,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764072277,Soda 750 ml,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491504782,West Indies hotn sweet chilli,Lay's,Salty snacks,1,0,1,0,1,0,0,0,1,0,0,0,0,Allergens listed
+8904004400571,,Haldiram's,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058023800,Maggi 2-minute noodles Masala,"Maggi, Nestlé",Noodles & pasta,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8906010500894,Chataka pataka,Balaji Wafers,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491100533,Chilli Chatka,Kurkure,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901595862818,Dark Soy sauce,Ching's Secret,Condiments & sauces,1,1,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8906010500368,Tikha Mitha Mix,Balaji Namkeen,Other / unknown,1,0,1,0,0,0,0,0,1,1,0,0,0,Allergens listed
+8901491103084,Green chutney style,"Kurkure, PEPSICO INDIA HOLDINGS PVT LTD",Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+89009949,Nescafe Classic Instant coffee,Nescafe,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500030,Malasa Masti,Balaji Wafers,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725016296,Dark Fantasy Bourbon Biscuit,Sunfeast,Biscuits & cookies,1,1,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8906010503444,8906010503444,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764012273,Coca cola Soft Drink 750ml,Coca cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491503013,Yellow Salted Lays,Lay's,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901595863280,Schezwan Chutney,Ching's Secret,Plant-based staples,1,1,1,0,0,0,0,0,0,0,0,0,0,Allergens listed
+8902579002442,Appy fizz,Parle,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202216695,Gems,Cadbury,Chocolate & sweets,1,1,1,0,1,1,0,0,0,0,1,0,0,Allergens listed
+8901719130144,Parle Hide & Seek Cookies,Parle Biscuits PVT Ltd,Biscuits & cookies,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8901725013691,Bingo mad snack,Bingo!,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004403671,TASTY NUTS Shing Bhujia,Haldiram's,Other snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901063012868,Milk bikis biscuits,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8909081005251,Yippee Noodles,Sunfeast,Noodles & pasta,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+3948764042270,Thumbs Up 750ml pet,Thumps up,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764052910,Limca,Pepsi,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764022913,Fanta,"Coca-Cola, St-Hubert",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400250,Haldiram's Soya Sticks,Haldiram's,Other snacks,1,0,1,0,1,1,1,1,0,1,0,0,0,Allergens listed
+8906007280242,refined sunflower oil,fortune,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080204342,Pepsi Brand Mirinda orange flv 2ltr,Pepsico,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063162464,BRITANNIA marie GOLD,Britannia,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500498,balaji wafers tomato twist,,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725007508,Bingo! Potato Chips Chilli Sprinkled,ITC,Salty snacks,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8906006330276,,,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764012600,Coca-Cola Original Taste,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901071211307,Hershey's syrup,Hershey's,Chocolate & sweets,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901719100369,Parle Bis Hide &seek,Parle,Biscuits & cookies,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8906010503550,Wafers,,Biscuits & cookies,1,0,1,0,1,0,1,0,1,0,0,0,0,Allergens listed
+8902579002299,Smoodh chocolate,Parle Agro,Chocolate & sweets,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8904004400243,Soya Sticks,Haldiram's,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904335604150,Yoga Bar Millet Muesli,Yoga Bar,Cereals & breakfast,1,0,1,0,0,1,1,1,0,0,0,0,0,Allergens listed
+8904004400687,Haldiram's Aloo Bhujia Sev,Haldiram's,Salty snacks,1,0,1,1,1,1,1,1,1,1,0,0,0,Allergens listed
+8901491365703,Puffcorn,Kurkure,Salty snacks,1,1,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901262200189,Amul Lassi 200ml,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901207900839,hajmola,Dabur,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764362309,Pulpy orange,Minute Maid,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058005080,Munch Max,Nestlé,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8902080001828,Pepsi Zero Sugar,PepsiCo Inc.,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088050586,Parachute Coconut Oil,Parachute,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058009729,Masala Veg Atta Noodles,Maggi,Noodles & pasta,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8904004409253,Potato Lite,Haldiram Snacks Pvt. Ltd.,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906009501031,Pasteurised Cow Milk,Chitale,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906010500429,Unknown Product,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063093591,,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058000269,Maggi,Maggi,Noodles & pasta,1,0,1,0,1,1,1,0,0,0,0,1,0,Allergens listed
+19017198,Parle Cream Cracker Original,"Parle, Simply Good",Biscuits & cookies,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901030831706,Mixed Fruit Jam,"Hindustan Unilever Limited, Kissan",Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207005527,Honey Squeezy,Dabur,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901595863013,Schezwan Chutney,ching's,Condiments & sauces,1,1,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8906010503529,CHRUNCHEM Masala Masti,Balaji,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8909081005046,Dark Fantasy Choco Fills,Sunfeast,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+7622202309830,Bournvita 200g,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904422711365,Nariyal Biscuit,Patanjali,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+3948063139329,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764032271,Sprite Lemon-Lime Flavoured,Coca Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491000789,Lays India's magic masala,Lay's,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080364022,Mountain Dew,PepsiCo,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902346012353,Oral Rehydration Salts I.P. Electral,FDC LIMITED,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262020039,Amul cheese,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901088047142,parachute oil,parachute,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004404630,salted peanuts,haldiram's,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8902080404575,Mango Slice 1.75ltr,PepsiCo Inc.,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725000622,sunfeast Mom,Sunfeast,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030877131,Real Mayonnaise,Hellmann's,Chocolate & sweets,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901030902369,Knorr hot & sour veg soup,Knorr,Other / unknown,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8904004403800,Moong dal,"Haldiram, Haldiram's",Other snacks,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063092822,BRITANNIA Good day  BUTTER COOKIES,Britannia,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+7622202324574,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063014404,,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906004560149,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202252419,Oreo Original,"Oreo, Cadbury",Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901058022179,Munch,Nestlé,Biscuits & cookies,1,0,1,0,1,1,1,1,0,1,0,0,0,Allergens listed
+8901063367173,5050 Maska Chaska,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901063142015,Nutri Choice,Britannia Digestive,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+8908005144632,Muesli dark chocolate cranberry,Yoga bar,Cereals & breakfast,1,0,1,0,0,0,0,1,0,0,0,0,0,Allergens listed
+8904327600405,Myfitness Chocolate Peanut Butter,Myfitness,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901030735097,Vanilla Ice Cream,Kwality Walls,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491103046,Kurkure Green chutney,,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010503512,Balaji wafers,Balaji,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500092,Balaji Wafers Crunchex,Balaji Wafers,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080204588,8902080204588,Mirinda,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010501242,wheelos masala flavour,Balaji Wafers,Salty snacks,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906001023050,Gowardhan pure cow ghee,Gowardhan,Dairy,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8909081001147,bounce,Good Life,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725012953,sunfeast Marie light 10 MRP,Coffee-Mate,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901595972111,8901595972111,,Condiments & sauces,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904327600948,MYFITNESS Chocolate Peanut Butter Crunchy,MYFITNESS,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030702556,Kissan sweet & spicy,,Condiments & sauces,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202325960,Bournville Intense 70% Dark,Cadbury,Chocolate & sweets,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906010502492,Crunchem Peri Peri Flavour,Balaji Wafers,Salty snacks,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+7622202318078,5 Star Chocolate Bar,Cadbury,Chocolate & sweets,1,1,1,0,1,0,1,0,0,0,1,0,0,Allergens listed
+8901491502030,Lay's American Style Cream & Onion Flavour,Lay's,Salty snacks,1,1,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8901491380010,Solid Masti Masala,Kurkure,Other snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901030872693,Real mayonnaise,Hellmann's,Condiments & sauces,1,1,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+3948764092800,maaza,coco-cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088068741,Masala Oats - Peppy Tomato,Saffola,Cereals & breakfast,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901262200004,Butter milk amul,Amul,Dairy,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063028241,Nice Time,Britannia,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088000345,Coconut oil,Parachute,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262151863,Amul Fresh Cream,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8904004400045,,Haldiram's,Salty snacks,1,0,1,0,1,1,1,1,1,1,0,0,0,Allergens listed
+8901262020015,Cheese slices,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906017290774,Soda,Bisleri,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901012350010,Apple drink,johnson and Johnson,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8901491000772,Lays american onion 80gm,Lay's,Salty snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901262172448,Amul Chocolate Brownie,Amul,Chocolate & sweets,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+846203081923,,chitale,Salty snacks,1,0,1,0,0,1,0,0,1,1,0,0,0,Allergens listed
+8901058016222,Pichkoo RICH TOMATO KETCHUP,Maggi,Condiments & sauces,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202315152,5 Star,Cadbury,Chocolate & sweets,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901058017601,Nescafe 10 rupees,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491103800,Oats,Quaker,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+9300633929169,Chunk Light Tuna,Woolworths,Other / unknown,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901063017627,Brit 50-50 maska chaska 40g (20),Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,1,0,0,Allergens listed
+8901262150088,Milk,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906009803777,Waffy - choco flavoured wafer roll,Dukes,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901207025372,Dabur Honey,Dabur,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207062865,Hajmola,Dabur,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262151696,Amul Lassi 250 ml,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+3948764175091,maaza,Tetra Pak,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030898105,Hellman's Real Mayonnaise,Hellman's,Condiments & sauces,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901262070676,Dark Chocolate,Amul,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500085,Chevdo,Balaji,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058003000,Pazzta Cheese Macaroni,Maggi,Noodles & pasta,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901058015171,Nestle KitKat,Nestlé,Biscuits & cookies,1,0,1,0,1,1,1,0,0,1,0,0,0,Allergens listed
+8906010500269,Poprings Masala flavour,Balaji,Biscuits & cookies,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901764112270,Coca Cola Zero Sugar,Coca cola zero,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906004560767,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764111259,Coca cola zero 300ml can MFD10/04/2025,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500702,Chana dal,Balaji Wafers,Other snacks,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+4897036692455,Monster Energy Ultra,"Monster, Monster Energy",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202272639,Cadbury Dairy Milk,Cadbury,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906136651968,High Protein Oats Chocolate,Pintola,Cereals & breakfast,1,0,1,0,1,1,1,1,0,0,0,0,0,Allergens listed
+8904482000003,Hamdard Roohafza,Hamdard,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719125348,8901719125348,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058018677,Rich Tomato Ketchup,,Condiments & sauces,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908013982646,Lahori Zeera,Lahori Zeera,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904258701707,Coconut Water,RAW Pressery,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906009532356,CHOCOLAMOND SNACK BAR,MAX PROTEIN,Other snacks,1,0,1,0,1,0,1,1,0,0,0,0,0,Allergens listed
+89000724,Kinley,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906035030055,Refined Sunflower Oil,Freedom,Plant-based staples,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8904043926612,Himalayan Rock Salt,TATA Salt,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901499023339,"Muesli Fruit, Nut & Seeds",Kellogg's,Cereals & breakfast,1,1,1,0,0,1,0,1,0,0,1,0,0,Allergens listed
+8904043552644,Modern Sandwich Supreme Bread,Modern,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901595863594,Schezwan Chutney,,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903553851377,Temptin  TOMATO KETCHUP,,Condiments & sauces,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004402247,Farali Chiwda,Haldiram's,Salty snacks,1,0,1,0,0,0,0,1,1,0,0,0,0,Allergens listed
+8901719121685,20 20 butter cookies 200g,parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058017670,Maggi 280g,Maggi,Noodles & pasta,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262260107,Amul Gold Milky Milk,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+716270001660,Ginger Crystallized In Dark Chocolate,Chocolove,Chocolate & sweets,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901207006241,Dabur Chyawanprash,Dabur,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764111259,Coca cola zero sugar 300ml,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030902352,knorr Tomato chatpata,Knorr,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088068758,Saffola Masala Veggie Twist Oats,Saffola,Cereals & breakfast,1,0,1,1,1,0,0,0,0,0,0,0,0,Allergens listed
+8901088000451,Parachnute 100% Pure Coconut Oil,Parachute,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906009070834,Unibic cashew badam cookies 500g,Unibic,Biscuits & cookies,1,0,1,0,1,1,1,1,0,0,0,0,0,Allergens listed
+8886467122408,Pringles Sour Cream & Onion Flavour Potato Crisps,Pringles,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063163331,Tiger glucose biscuit,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8904004400601,Haldiram Lite Chiwda,Haldiram's,Biscuits & cookies,1,0,1,0,1,0,1,1,0,1,0,1,0,Allergens listed
+8906010501952,Balaji Wafers Rumbles Potato Chips Pudina Twist flavour,"Balaji Wafers, Balaji, Rumbles",Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063093089,Good day Cashew,Britannia,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030987007,Knorr Schezwan Sauce 200 g,Knorr,Condiments & sauces,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+7622202237416,Bournvita 13.4g,"Bournvita, Cadbury",Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908006989355,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063155534,Krunch ChocoChips,"Britannia, Tiger",Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764312601,,,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004401561,,Haldiram's,Other / unknown,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901719135477,Parle G gold,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764972041,Thums Up XForce,Thums Up,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202344213,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491367219,kurkure,kurkure,Salty snacks,1,0,1,0,0,0,0,0,0,1,1,0,0,Allergens listed
+8906069403412,Chef's Special Tomato Ketchup,VEEBA,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080364589,Mountain Dew,PepsiCo,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207040337,Chyawanprash Awaleha,Dabur,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+20357122682,Milk,Mestla,Dairy,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906017290026,Bisleri Water 250ml,Bisleri,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764092152,Maaza Original 1.75ltr,HINDUSTAN COCO-COLA BEVERAGES PVT.LTD,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904109450112,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491981552,Lay’s Chile Limon 20rs,Lay's,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764011252,Coca cola Original Taste 300ml can,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491981538,Lay’s Chile Limon,Lay's,Other snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004401134,Haldiram's Khatta Sweet and Salty mix,Haldiram,Other / unknown,1,0,1,0,1,1,0,0,1,1,0,0,0,Allergens listed
+8901030953217,Kissan Sweet & Spicy Sauce,Kissan,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491365666,Kurkure Puffcorn,Kurkure,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908005144014,MULTIGRAIN ENERGY BAR CHOCOLATE CHUNK NUT,Yoga Bar,Cereals & breakfast,1,0,1,0,0,0,1,1,1,0,0,0,0,Allergens listed
+8902080204021,Mirinda,"Mirinda, PepsiCo Inc.",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901512540102,Act II Classic Salted,ACT II,Other snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063338593,100% Whole Wheat Brown Bread,Britannia,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030980053,Peanut Butter Crunchy,Kissan,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906001023036,Pure Cow Ghee,Gowardhan,Dairy,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908000861107,GOPAL,gopal,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8909081001123,Bounce Chocho,Sunfest,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8906053810264,Paawak Jaggery Cubes,Paawak,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903241110434,Kolhapuri Thecha,Pravin,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400021,bhujia sev,Haldiram's,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719129179,PARLE COCONUT,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719126468,parle 20-20,Parle,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906002006601,8906002006601,Dr. Oetker,Other / unknown,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8906004560262,Chulbule Teekha Tadka Flavour,Yellow Diamond,Salty snacks,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901030779282,Green tea honey lemon 25 Tea Bags,Lipton,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491001809,Lay's Sizzlin Hot,Lay's,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764052910,Limca,,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908010900070,Pintola all natural peanut butter (crunchy),Pintola,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901725123123,iodized salt,Aashirvaad,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725104641,Sunfeast moms magic cashew almond,Sunfeast,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764022913,Fanta Orange,Fanta,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030919305,pizza & pasta sauce,Knorr,Noodles & pasta,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8886467122439,Pringles Desi Masala Tadka Flavour,Pringles,Salty snacks,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906010502300,balaji wafers flamin hot,Balaji,Other / unknown,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8904071700192,Golden potato chips,,Salty snacks,1,0,1,0,1,1,1,1,0,1,0,1,0,Allergens listed
+8901088136945,100% Pure Coconut Oil,Parachute,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906032018919,Nutrela Soya mini chunks,Nutrela,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8996001312476,,Mayora,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906032018810,Patanjali Doodh biscuits,Patanjali,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+8904004404661,salted peanuts,Haldiram's,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901117250000,prolyte ors Orange flavour,cipla health,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500511,Chataka Pataka,Balaji,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725015886,Dark Fantasy Choco Fills,"ITC LIMITED., Sunfeast",Biscuits & cookies,1,1,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8904071700031,Masala Banana Chips,Chheda's,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902579001438,Appy Fizz,Appy,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010501822,GIPPI,Balaji,Noodles & pasta,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725005986,Sunfeast Yippee! masala magic,"Sunfeast, Yippee!",Noodles & pasta,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8904090906520,Garlic mixture,Rajam snacks,Other snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901262174114,King Alphonso Gold Ice Cream,Amul,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948262200196,amul butter masti 15,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725018016,Yippee noodles (snack pack),Sunfeast,Noodles & pasta,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+7622202324260,Dairy Milk Chocolate,,Chocolate & sweets,1,1,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8906080604690,Swing Coconut Water,Paper Boat,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030735110,,,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058851298,Maggi Noodles Masala 70Grm Pc,Maggi,Noodles & pasta,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+19010588,Chicken noodles,"Maggi, Nestlé",Noodles & pasta,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8902080104055,Pepsi Drink 750ml,The Coca-Cola Company,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906002000494,Dr Oetker Funfoods Veg Mayonnaise,"Dr. Oetker, Funfoods",Condiments & sauces,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8901491702188,Oats,Quaker,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491001854,PEPSICO.,Lay's,Salty snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901595851218,Veg Hakka Noodles,Ching's Secret,Noodles & pasta,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906010500535,Balaji Wafers Chaat Chaska,Balaji,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901512540201,ACT TT GOlDEN SIZZLE,ACT II,Other snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906005508904,Bikaji mobile bhel chowpati bhelpuri,Bikaji,Other snacks,1,0,1,0,0,1,0,0,1,0,0,0,0,Allergens listed
+8901058904741,Nestle kit Kat (Ind),KitKat,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901058875577,Milkybar,Nestlé,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063142244,Nutri choice zero,Britannia,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010501419,poprings,balaji,Other snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906006721821,lion kimjo Dates,LION,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400588,Haldiram's Lite Chiwda,Haldiram,Other / unknown,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764175015,Maaza,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004403626,,Haldiram's,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088213608,Saffola Oats,"Saffola, Marico",Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906007611602,Kreamy magic,Kwality,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202216916,Cadbury Chocobakes 17gm,Cadbury,Chocolate & sweets,1,0,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+8901058016116,KitKat 50,KitKat,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063365964,Britannia Chocolate Cake 100gm,Britannia,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,1,Allergens listed
+846203004885,BAKARWADI,Chitale,Condiments & sauces,1,0,1,0,0,1,0,0,0,1,0,0,0,Allergens listed
+8901719135156,PARLE MONACO,parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,1,0,0,Allergens listed
+8906151420389,best misal farsan,Sitashree LaxmiNarayan,Other snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764012600,Coca cola 400,Coca-Cola,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719127106,NG,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906010500320,8906010500320,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202324697,,,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906031252314,Chakote Slice Cake,Chakote,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058022193,Maggi Noodles,Maggi,Noodles & pasta,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901246005373,TOMATO KETCHUP CLASSIC BLEND,Del Monte,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207019234,Hajmola,Dabur,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080204052,Mirinda orange Flavour 750ml,Mirinda,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400083,Haldiram's Bhujia sev,Haldiram's,Salty snacks,1,0,1,0,1,1,1,1,1,1,0,0,0,Allergens listed
+8901262071864,99% Cacao Ultimate Dark Chocolate,Amul,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904272600154,Storia Tender Coconut Water,Storia,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262020046,Pure Milk Cheese Slices,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901030902383,Manchow Veg,Knorr,Other / unknown,1,1,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901063162648,Britannia Marie Gold,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906090573047,Chips American Style Cream & Onion,Too Yumm,Salty snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8904004407617,Taka-tak,Haldiram's,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010261078,Refined Sunflower Oil,Gold winner kaleesuwari,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622201763329,Orange Tang,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+1295,Feed Grade Soybeans,"H‑E‑B, Rural Route 1",Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906006783058,D-lite Tomato Ketchup,Surabhi,Condiments & sauces,1,0,1,0,1,0,1,1,0,1,0,1,0,Allergens listed
+8904004404647,salted peanuts,Haldiram's,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8904320015404,Peanut Butter - Crunchy,Disano,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8906010501198,Crunchem Pizzy Masala,Balaji,Salty snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906113490887,Tata Soulfull Millet Muesli,Tata Soulfull,Cereals & breakfast,1,0,1,0,0,1,1,1,0,0,0,0,0,Allergens listed
+8906127550010,Natural Peanut Butter Crunch,ALPINO,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8904004402537,Haldiram mini bhakarwadi,Haldiram's,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908002506969,BAT Shamim  Dates,"BAT, Bait Al Tamur",Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010450021,Budhani Bros Potato Wafers,Budhani Bros,Salty snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8886467124723,Pringles sour cream 40g,,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202328770,,,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906009502120,Chitale Shrikand,Chitale,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202318139,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764011252,CocaCola,Coca Cola,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901071706834,HERSHEY'S SYRUP 623g,Hershey's,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901512144805,Peanut butter,Sundrop,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262150064,Amul Taaza 1ltr,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8902080404094,Mango Slice,PepsiCo,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491435109,Potato chips (Spicy Treat flavour)20rs,Uncle Chipps,Salty snacks,1,1,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8902579103170,Frooti,"Frooti, Parle Agro",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8886467122446,Pringles - South African Style Periperi Flavour,Pringles,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725013684,Bingo! Mad Angles Achaari Masti,"Bingo, ITC Limited",Biscuits & cookies,1,1,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+941458000290,2-minute Noodles,Maggi,Noodles & pasta,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8902579001599,Frooti,,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080364060,Mountain dew,Pepsi,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+89008751,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058007220,Maggie masala magic,Maggi,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004405415,Haldiram's Soan Papdi (indian Sweets),Haldiram's,Biscuits & cookies,1,0,1,0,1,1,1,1,1,1,0,0,0,Allergens listed
+8906017290125,Vedica,Bisleri,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262173490,Vanilla ice cream,Amul,Other / unknown,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8904071700024,Salt-n-Pepper Banana Chips,Chheda's,Salty snacks,1,0,1,0,1,1,0,1,0,1,0,0,0,Allergens listed
+8908005144618,Yoga Bar Super Muesli 0% Added Sugar,Yoga Bar,Cereals & breakfast,1,0,1,0,1,0,0,1,0,1,0,0,0,Allergens listed
+8901499010483,Kelloggs Muesli,Kellogg's,Cereals & breakfast,1,1,1,0,0,1,0,1,0,0,1,0,0,Allergens listed
+8904004401066,Khatta Meetha,Haldiram's,Other snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8906127550850,High protein super oats chocolate,Alpino,Cereals & breakfast,1,0,1,0,0,0,0,1,1,0,0,0,0,Allergens listed
+8906026900022,sugar,madhur,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004402834,Panchathanthra mix,Haldiram's,Salty snacks,1,0,1,0,0,0,0,1,0,1,0,0,0,Allergens listed
+8908009059185,Zero Maida Whole Wheat Bread,The Health Factory,Cereals & breakfast,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8903754000086,Tata Copper+,Tata,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906009079165,Unibic Choco Chip Cookies,Unibic,Biscuits & cookies,1,1,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901648002444,Mother Dairy Probiotic Tadka Chach,Mother Dairy,Other / unknown,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901725015015,8901725015015,Sunfeast,Biscuits & cookies,1,1,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+8902080614059,Duke's Club Soda,"Duke's, PepsiCo",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906017291337,8906017291337,bislery,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903241110038,Mango Pickle,Pravin,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903363009371,,,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904071701229,Soy snack,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906151420235,Laxminarayan mix farsan,1,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906027713560,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725005924,sunfeast yippee,Sunfeast,Noodles & pasta,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8908019319187,,,Other snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202265525,Perk,Cadbury,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901719135767,Parle-G ROYALE,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906004561054,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8909081005053,8909081005053,dark fantasy,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+89080672,Masala ae magic,"Maggi, Neslé, Neslé india",Condiments & sauces,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+89080146,Nescafe classic,Nestlé,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901522002096,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135323,parle krackjack,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058010749,Maggie,"Fassi, Fssai, Maggie",Chocolate & sweets,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901063367180,50-50 Maska Chaska,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8909106052185,Classic Malt,Horlicks,Beverages,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8904004402674,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902346050560,Enerzal Orange Flavour,"Enerzal, FDC",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202334115,Fuse chocolate 21g,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262010023,Amul pasteurised butter,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901063162549,Marie gold,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,1,0,0,Allergens listed
+8901071211161,COCOA POWDER MEDIUM FAT COCOA POWDER,HERSHEY'S,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491503044,Lays,Lay's,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063139336,Britannia bourbon 100g,Britannia,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901058000252,8901058000252,Maggi,Other / unknown,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906002006243,Peanut Butter Crunchy,Dr. Oetker FUNFOODS,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901764042805,Thums Up,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+15000047757,Yogurt blends snack,Gerber,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063142466,Nutri Choice Digestive,Britannia,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+8901207005374,Honey,Dabur,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901393019452,Happydent Gum,Happydent,Chocolate & sweets,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901058003017,Pazzta Masala Penne,Maggi,Noodles & pasta,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8908008674808,Wafer,Nabati,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901063004139,Britannia Good day Chocolate Cookies 400g,Britannia,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901595862825,Red chilli sauce,Ching's,Condiments & sauces,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904083302292,Greek Yogurt,Milky Mist,Dairy,1,0,1,1,1,0,0,0,0,0,0,0,0,Allergens listed
+8901030922770,Mixed Fruit Jam,Kissan,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902579002497,SMOODH CHOCLATE FLAVORED MILK,"Parle, SMOODH",Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901063032446,Britannia Treat croissant coco cream bauli,Britannia,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764022906,fanta,Fanta,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901071701372,Hershey's spreads,hershey's,Chocolate & sweets,1,0,1,0,1,0,0,1,0,1,0,0,0,Allergens listed
+8901595971244,Ching's Hot and sour,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080404179,Slice,,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906009531533,Choco Classic Bar,Max Protein,Other snacks,1,0,1,0,1,0,1,1,0,0,0,0,0,Allergens listed
+8902080002771,Tropicana Fruitz,"Tropicana, Pepsico",Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8901262200622,Amul Masti,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901058861921,Milky bar,Nestlé,Chocolate & sweets,1,1,1,0,1,0,1,0,0,1,0,0,0,Allergens listed
+8904335602392,Daily 10g Protein Bar,Yoga Bar,Other snacks,1,0,1,0,1,0,0,1,1,0,0,0,0,Allergens listed
+8904132975408,campa cola,Campa,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908000794054,Pasteurised Cow Milk,Gokul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8904071702349,Mix Farsan,,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904335601869,Yoga bar 23G protein muesli + choco almond + cranberry,Yoga bar,Cereals & breakfast,1,0,1,1,1,0,1,1,0,0,0,0,0,Allergens listed
+8901030951091,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010503482,Tomato Twist,,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901595862801,Green Chilli Sauce,Ching's Secret,Noodles & pasta,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902579002312,Smoodh chocolate hazelnut,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262202220,Dahi Yogurt,Amul,Dairy,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010504359,Snack'em Chokdi Masala,Balaji Wafers,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262202244,Tadka Chhach Probiotic Buttermilk,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901058022087,Munch,Nestlé,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063362710,CAKE GOBBLES,Britannia,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,1,Allergens listed
+8901063016941,Classic ( Britannia ),Britannia,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063028234,,Brittania,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719134937,Parle g dark biscuits,Parle,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901012100806,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902579003470,Smoodh Masala Flavoured Buttermilk,Smoodh,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901725016234,Sunfeast Dark Fantasy Bourbon,Sunfeast,Biscuits & cookies,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902579003456,Smoodh Chaas,"Parle Agro, Smoodh",Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901063012493,Milk Bikis biscuits,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901063155343,Britannia Tiger Crunch ChocoChips,Britannia,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+7622202328800,,,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764112270,Zero cocacola,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+941458017687,Maggi 70g,Maggi,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719125478,Parle-G gold 75g,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8902080364053,Mountain Dew,Pepsico,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207036989,Chyawanprash,Dabur,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080304059,7up Super Duper 750ml,PepsiCo,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901192205100,catch chat masala,Catch,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719101038,Parle - G,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901764032400,Sprite Lemon Lime flv Coke Brand 2ltr,"The Coca-Cola Company, कोका कोला क",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901123005403,Lotto Choco Pie With Rich Marshmallow,Lotte,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901719117220,Parle Hide &seek 200g(30),Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500221,Balaji Wafers Mung Dal,Balaji,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901117250352,oral rehydration salts,cipla,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906069401210,Peanut butter,veeba,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901262172493,Amul Chocochips Icecream,Amul,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764048319,Charged berry bolt,Thums Up,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901123005410,Lotte Choco Pie,Lotte,Other snacks,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901063017399,Britannia 5050 maska chaska (300g),Britannia,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901499010742,Chocos Crunchy Bites,Kellogg's,Chocolate & sweets,1,0,1,0,1,1,0,1,0,0,0,0,0,Allergens listed
+8904004401073,Haldiram khatta mitha,haldiram,Other snacks,1,0,1,0,1,1,1,0,1,1,0,0,0,Allergens listed
+8901058903966,Milkybar Moosha,Nestlé,Chocolate & sweets,1,0,1,0,1,1,1,0,0,1,0,0,0,Allergens listed
+8901595863051,Pasta Masala,Smith & Jones,Noodles & pasta,1,1,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8904335601951,100% Rolled Oats,Yoga Bar,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901512562807,Butter flavour popcorn,ACT 2,Other snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901262020244,Amul Cheese,Amul,Dairy,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908004099025,Sunrich Aqua Packaged Drinking water,Sunrich Aqua,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906029450548,Mixed Fruit Jam,Meal Time,Cereals & breakfast,1,0,1,1,0,0,0,0,0,0,1,0,0,Allergens listed
+6291100213160,Khenaizi Dates,"Date Crown, Khenaizi",Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901248701105,AQua Gulf,no,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906004562518,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903241110076,Pravin Mango Pickle,Pravin,Plant-based staples,1,0,1,0,0,0,0,0,0,0,0,1,0,Allergens listed
+8908013982882,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063325753,Britannia Toastea Premium Bake Rusk with Real Elaichi,Britannia,Cereals & breakfast,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8904071701090,Small Bhakarwadi,,Other snacks,1,0,1,0,0,1,0,0,0,1,0,0,0,Allergens listed
+8906010500306,Ratlami Sev,Balaji Wafers,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004402421,Halke Fulke Salted Potato Chips,Haldiram's,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500351,Aloo Sev,Balaji,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+70970474088,Chewy spicy candies,"Hot Tamales, Hot Tamale",Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+6291100212606,Date Crown Bumaan,Date Crown,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904018605238,Chandan Regal Rose Mix,Chandan,Other / unknown,1,0,1,0,0,0,0,0,0,1,0,0,0,Allergens listed
+8901063325920,Britannia Toastea Premium Bake Rusk with Real Elaichi,Britannia,Cereals & breakfast,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906010500238,BALAJI Mung Dal,,Other snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030902390,knorr sweet corn Veg,Knorr,Other / unknown,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906080602818,Paper boat pomegranate 600ml,paper boat,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135163,Parle Monaco,Chupa Chups,Salty snacks,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901063325227,Toast Tea Rusk,Britannia,Other snacks,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8901262173483,Amul Fruit 'N' Nut Fantasy,Amul,Other / unknown,1,0,1,0,1,0,0,1,0,0,0,0,0,Allergens listed
+8906010500399,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+4901265162914,,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906031251140,Chakote Milk Toast,Chakote,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903553601057,Mango Pickle,,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906027712235,Ghee,Govind,Dairy,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202324475,,,Chocolate & sweets,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8909081003776,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764012303,Coca-Cola,Coke,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8886467122392,PRINGLES ( ORIGINAL ),"Pringles, Kellanova",Salty snacks,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8901888040350,Real fruit power mixed fruit 1ktr tpk,,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8901063155459,Tiger Krunch ChocoChips,Britannia,Biscuits & cookies,1,0,1,0,0,1,1,0,0,0,1,0,0,Allergens listed
+8901030818660,Boost,Hindustan Unilever Limited,Beverages,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8908005144649,Muesli+ (Fruits + Nuts & Seeds),Yoga Bar,Cereals & breakfast,1,0,1,0,0,0,0,1,0,0,0,0,0,Allergens listed
+8901058004953,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901512540805,Popcorn,,Other snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901491101820,lays,Lay's,Salty snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901192001207,Catch Sprinkler Black Salt,"Catch, Dharampal Satyapal Foods Limited",Condiments & sauces,1,0,1,0,0,0,1,1,1,1,0,0,0,Allergens listed
+8901764042508,Coke Brand Thumbs up 2ltr,coca cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622201762063,Dairy milk chocolate,Cadbury,Chocolate & sweets,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901262152211,Amul Kool Kesar Flavour 180ml,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901063093355,Good Day Cashew Cookies Medium Pack 600g,Britannia,Biscuits & cookies,1,1,1,0,1,1,1,1,0,0,0,0,0,Allergens listed
+8906002004430,Veg mayonnaise,Dr. Oetker,Condiments & sauces,1,1,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8904004400755,Aloo Bhujia sev,Haldiram,Other snacks,1,0,1,0,1,1,1,1,1,1,0,0,0,Allergens listed
+8901058005639,2-Minute Noodles Masala,Nestlé,Noodles & pasta,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262200028,Dahi,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8908010900063,Peanut Butter All Natural Creamy Unsweetened,Pintola,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901542017667,Glucose orange flavour,Zydus wellness,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901246003492,Del monte,Del Monte,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030532719,kissan fresh Tamato,Kissan,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901499008800,Kellogg's chochos,Kellogg's,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207026553,Honey,Dabur,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202245558,Cadbury Dairy Milk,Cadbury,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8850389100684,Mogu lychee,Sappe Public Company Limited,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262070454,Amul Dark Chocolate,Amul,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058003079,Maggi cheesy Tomato,Maggi,Noodles & pasta,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901764012907,8901764012907,Coca-Cola,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901786060504,Chaat Masala,Everest,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063017702,50 50 Gol Maal,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8902710500752,Nutty Fruity Muesli,Baggry’s,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902579003302,Smoodh Lassi,Smoodh,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901088155496,Saffola oats,Saffola,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088034593,SAFOLA ACTIVE - MULTI-SOURCE EDIBLE OIL,Saffola,Cereals & breakfast,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8996001312490,Mayora Malkist Chocolate Flavored Sandwich Cracker Biscuits,Mayora,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+1233,Coop Croissant Naturell 60g,GOMAN AS,Other snacks,1,0,1,0,0,0,0,0,0,0,0,0,1,Allergens listed
+1569,Personalized Protein Powder,Herbalife,Other / unknown,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8904004402032,All In One,Haldiram's,Other snacks,1,0,1,0,0,1,0,1,1,1,0,0,0,Allergens listed
+8901063162600,Marie Gold,Britannia,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,1,0,0,Allergens listed
+8904071707061,,,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719130243,Moong Dal,Parle,Other snacks,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030976735,Korean Ramen,Knorr,Noodles & pasta,1,1,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901314717429,Papadopoulos caprice,Papadopoulos,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906019776092,Arabian Premium Dates,Nutraj,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901595862658,Ginger Garlic Paste 5 MRP,Smith & Jones,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010502508,Crunchem Peri Peri Flavour,Balaji,Salty snacks,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+4987176230775,Hear shoulder,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906016413792,Badam Flavoured Milk,Godrej Jersey,Dairy,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063139350,BRITANNIA bourbon 500g,Britannia,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262175845,Icecream,Amul,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902433005763,70%coCÓA,Galaxy,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058905090,naturo,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135521,PARLE MARIE,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262040518,Food,Ferreo,Other / unknown,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901725005955,sunfeast yippe,Sunfeast,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8000500165607,Tic Tac Spearmint,Tic Tac,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904132976238,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725016838,Aashirvaad Superior MP Atta,"Aashirvaad, ITC",Cereals & breakfast,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906169490848,Mazafati Dates,,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906009532363,MAX protein bar,Ritebite,Other snacks,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8906080601767,Swing Lush Lychee,Paper boat,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719129933,Parle G Oats and Berries Biscuits,Parle,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+7622202307171,shots,Cadbury,Chocolate & sweets,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901058007268,Masala-ae-Magic,Maggi,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904132972209,,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010500566,Balaji Wafers Tikha Mitha Mix,Balaji Wafers,Salty snacks,1,0,1,0,0,1,0,0,1,1,0,0,0,Allergens listed
+8901764362750,,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906010503543,Balaji Crunchem Chaat Chaska,Balaji,Salty snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8908010900162,Peanut Butter,Pintola,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901063139374,BOURBON,Britannia,Biscuits & cookies,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8906007280969,Fortune Premium Kachi Ghani Pure Mustard Oil,"AWL Agri Business Limited, Adani Wilmar Limited, Fortune",Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088055772,Oats,Saffola,Cereals & breakfast,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8886467122415,Pringles Pizza Flavour Potato Crisps,Pringles,Salty snacks,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901764022272,Fanta Orange Flv 750ml,The Coca-cola company,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080404117,slice,PEPSICO INDIA HOLDINGS PVT LTD.,Other / unknown,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8906069402668,Veeba,Veeba,Noodles & pasta,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8902579107017,Frooti,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908005144359,Breakfast protein bar,Yoga Bar,Cereals & breakfast,1,0,1,0,0,0,0,1,1,1,0,0,0,Allergens listed
+8901542016226,Glucon-D Regular,Glucon-D,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901499008244,Chocos Moons & Stars,Kellogg's,Cereals & breakfast,1,1,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901262071048,Amul Sugar free chocolate,Amul,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901786070503,Pav bhaji masala,Everest,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400014,Bhujia Sev,Haldirams,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207900631,Chyawanprash,Dabur,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906066202476,Keya Piri Piri,Keyafood,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764041259,Thums Up 300ml can,Coca Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901764012709,,Coca-Cola,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904063230010,Haldiram Bhujia400g,"Haldiram, Haldiram's",Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+80135890,Kinder joy boy,Ferrero,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030980046,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906002006236,Dr. Oetker Peanut Butter,Dr. Oetker,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725100025,B Natural Mixed fruit 1ltr tpk,ITC Limied,Beverages,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004402056,All in one,Haldiram's,Other / unknown,1,0,1,0,0,1,0,1,1,1,0,0,0,Allergens listed
+8901071732413,Milk shake chocolate flavour 180ml,Hershey's,Dairy,1,1,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8906009803784,Dukes Waffy straberry,DUKES,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906006720329,Kashmir Honey,Lion,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906120100137,Chia seeds,Farmley,Cereals & breakfast,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906105470095,kimia dates,kimia,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491000192,Doritod cheese flavor,20rs,Salty snacks,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901491003162,Uncle Chipps Spicy Treat,chips,Salty snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901786140503,Everest sahi biryani Masala,EVEREST,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908005077084,Honey Bell vanilla cake,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903363001993,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491990219,Doritos,Doritos,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902579002053,Appy fizz,Parle Agro,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8906069401746,Eggless Mayonnaise Chef's Special,Veeba Favourites,Condiments & sauces,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8902579002046,Appy fizz,Parle Agro,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+8901262173599,Amul Rajbhog,Amul,Other / unknown,1,0,1,0,1,0,0,1,0,0,0,0,0,Allergens listed
+8901030779640,Lipton GREEN TEA LEMON ZEST,Lipton,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088129824,Classic masala,Saffola,Other / unknown,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8906019633029,1 to 3 noodles chatpat masala,1 to 3 noodles,Noodles & pasta,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8902979001724,Cavins Masala Chaasa 180 ml,Cavin's,Dairy,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8908020415014,Ziggy DONUT CAKE,Ziggy,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906010501259,Masala sev murmura,Balaji Wafers,Salty snacks,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8904004400977,Indian Snacks Mixture,Haldiram's,Other snacks,1,0,1,0,1,0,1,1,1,0,0,0,0,Allergens listed
+8904335601890,Yoga bar High Protein Muesli+,Yoga bar,Cereals & breakfast,1,0,1,0,0,0,1,1,0,0,0,0,0,Allergens listed
+8901030735103,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491003537,Cheetos Masala Balls,Cheetos,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903553601460,Mango Pickle,Ram Bandhu,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901155101210,Gulab Jamun,Gits,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906007283113,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908006989508,Peanut butter chikki,Nutritius,Other snacks,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901063029316,brittania Jimjam pops,Britannia,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8903553601491,Ram Bandhu Mango pickle,Ram bandhu,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262020558,Diced Cheese,Amul,Dairy,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904049111647,Triphala Churna (B.P.N),,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904090906667,Schezwan,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088766937,,,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202225598,OREO,Oreo,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906029110022,Sliced Bread,Wibs,Cereals & breakfast,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8901725014988,Dark Fantasy Yumfills Pie,"ITC Limited, Sunfeast",Biscuits & cookies,1,1,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+3948764042805,,,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262174107,Butterscotch Gold,Amul,Other / unknown,1,0,1,0,1,0,0,1,0,0,0,0,0,Allergens listed
+8902579107048,Bottled water,Parle,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135569,Parle m,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901207053634,Real Coconut water pet 1ltr,Real,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906113490795,Millet Muesli,Tata Soulfull,Cereals & breakfast,1,0,1,0,0,0,0,1,0,0,0,0,0,Allergens listed
+7622202325991,50% Dark Chocolate,Cadbury Bournville,Chocolate & sweets,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+7622202304309,Cadbury hot chocolate pwd 200g,,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063365933,Gobbles fruit cake,Britannia,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,1,Allergens listed
+8904109498800,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135170,parle monaco 700g,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8901030953200,Kissan No onion no garlic Tomato Ketchup,Kissan,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908000703018,Oxycool,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904132976368,campa energy drink,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030985966,Horlicks Chocolate Delight,Horlicks,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202271861,Dairy Milk Silk Bubbly Chocolate,Cadbury,Chocolate & sweets,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+89008492,Milkybar,Nestlé,Chocolate & sweets,1,0,1,0,1,1,1,0,0,1,0,0,0,Allergens listed
+8901088882583,Saffola Honey,Saffola,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902346050133,Enerzal Orange Flavour,FDC,Beverages,1,0,1,1,0,0,0,0,0,0,0,0,0,Allergens listed
+7622202324871,Gadour Dairy milk chocolate fruit & nut,Cadbury,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8909081003394,WOWZERS,Sunfeast,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901468119780,Pitambari Ruchiyana Jaggery Powder,"Pitambari, Ruchiyana",Other / unknown,1,0,1,0,0,0,0,0,0,0,1,0,0,Allergens listed
+8906006330269,Gemini,Cargill,Plant-based staples,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901058018639,Milkybar,Nestlé,Chocolate & sweets,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8901063142534,BRITANNIA nutri Choice,BRITANNIA,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+3948764972058,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262040044,Amul shrikhand badam pista,Amul,Dairy,1,0,1,0,1,0,0,1,0,0,0,0,0,Allergens listed
+7622202346385,Cadbury Dairy Milk,Cadbury,Chocolate & sweets,1,1,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8901719112744,Parle-G Gluco Biscuits,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906004561818,RINGS,,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908010900056,Crunchy Peanut Butter (Unsweetened),Pintola,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764012303,Coca cola 1ltr,,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+89006610,Orbit Chewing Gum,Wrigley's,Chocolate & sweets,1,0,1,0,0,0,1,0,0,0,0,0,0,Allergens listed
+8901719124143,ParleG gold 75 g,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262060011,Cheese Spread,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901058000276,Maggi 2 Mins Noodles 30 MRP,Maggi,Noodles & pasta,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901491001076,American Style Cream and onion chips,Lay's,Salty snacks,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8904083300021,Paneer,Milky Mist,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+5000171010025,Wild Pacific Red Salmon,John West,Other / unknown,1,0,1,0,0,0,0,0,0,0,0,0,0,Allergens listed
+8901595862740,Red Chilli Sauce,Ching's,Condiments & sauces,1,1,1,0,1,0,0,0,0,0,0,1,0,Allergens listed
+8901207004421,Real fruits juss anar,Dabur,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906032011019,Nutrela Soya chunks  220gm,Nutrela,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904083302100,Fruit Yogurt Blueberry,Milky Mist,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901063155442,Tiger Krunch ChocoChips,Britannia,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901491103282,Cheetos,PepisCo India,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202026423,Cadbury Bournvita 500g pet,"Bournvita, Cadbury",Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080104024,Pepsi cola,Pepsico,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8902080000722,Slice,Pepsico,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063142114,Britannia Nutri Choice Oats,Britannia,Biscuits & cookies,1,0,1,0,1,1,1,1,0,0,0,0,0,Allergens listed
+8906006720107,Qyno Dates,Lion,Plant-based staples,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901014000159,nissin,Nissin,Noodles & pasta,1,0,1,0,0,1,1,0,0,1,0,0,0,Allergens listed
+8901063142428,Nutri choice Digestive,Britania,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
+8902080704057,Lehar Soda 750ml pet,Pepsico,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8908008674785,Wafer richeese,Nabati,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030783241,Lipton Green Tea honey lemon,"Lipton, Unilever",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088069120,Saffola Honey Active,Saffola,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906006720114,Qyno Dates,Lion,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904272600895,Storia Pomegranate 750ml,storia,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901565001728,Piknik Classic Tomato Chilli (fried Indian snack),Piknik,Salty snacks,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8901888000347,Cranberry Juice By Real,Real,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948764042508,Thums Up,Thums Up,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+4114,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906080601934,Swing Juicier Drink Yummy Guava,Paper boat,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901725117504,No Rulz Curlz masala,Bingo,Biscuits & cookies,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901499009661,Kellogg's corn flakes original,Kellogg's,Cereals & breakfast,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904132948198,Campa Lemon,"Campa Cola, Reliance Industries",Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906011145049,B protein,british biologicals,Other / unknown,1,0,1,0,1,0,1,0,0,0,0,0,0,Allergens listed
+8901499009043,kelloggs chocos multigrain,Kellogg's,Chocolate & sweets,1,1,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8908012605010,Tomato Ketchup,Heinz,Condiments & sauces,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904335602385,Yoga Bar Protein Bar,Yoga Bar,Other snacks,1,0,1,0,0,0,0,1,0,0,0,0,0,Allergens listed
+3948764362309,Minute maid pulpy orenge,Drink,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904132948174,Campa (cola) 500ml pet,,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904043554716,Crem Treat Vanilla Crem bun,"Bimbo, Modern",Cereals & breakfast,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8901491001069,India’s Magic Masala 30,Lay's,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+3948725118938,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8907316003966,Ginger garlic paste,,Other / unknown,0,1,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901058905113,Kit kat,Nestlé,Chocolate & sweets,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901030976742,Knorr,Knorr,Other / unknown,1,0,1,0,0,1,1,0,0,0,0,0,0,Allergens listed
+8901725004682,farmlite oats & chocolate Cookies,"ITC, Sunfeast",Biscuits & cookies,1,1,1,0,1,1,1,1,0,0,0,0,0,Allergens listed
+8901063142213,Britannia nutri choice 75g,Britannia,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904320015398,Peanut butter Creamy,Disano,Plant-based staples,1,0,1,0,0,0,0,0,1,0,0,0,0,Allergens listed
+8901262173506,Amul Ice Cream,Amul,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8000500411018,Tic Tac Orange,Tic Tac,Chocolate & sweets,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901262151306,Kool cafe,Amul,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901393024197,Happy dent white,,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004400922,Haldiram's mixture,Haldiram's,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906036300027,peanut chikki,karia's,Chocolate & sweets,1,1,1,0,0,0,0,1,1,1,0,0,0,Allergens listed
+80768258,健達奇趣蛋(女孩版),Kinder,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901117249998,Prolyte ORS Apple Flavour,Prolyte,Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906090572132,Munchy masala,Too Yumm,Salty snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906080603914,Swing pomegranate,Paper boat,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901786080502,Everest Sambhar Masala,Everest,Condiments & sauces,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030944376,Hazelnut Choco Peanut spread,Kissan,Chocolate & sweets,1,0,1,0,0,0,0,1,1,0,0,0,0,Allergens listed
+8901764092282,Maaza,Coca-Cola,Beverages,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+8904004409222,Instant Bhel,Haldiram's,Other / unknown,1,1,1,0,0,1,0,0,1,0,0,0,0,Allergens listed
+8901262030243,Amul gee,Amul,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8904089920490,Heritage Total Curd,heritage,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8901063016934,BRITANNIA 5050,BRITANNIA,Biscuits & cookies,1,0,1,0,0,1,0,0,0,0,0,0,0,Allergens listed
+8901499010728,Kellogg's chocos,Kellogg's,Cereals & breakfast,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8904004409260,Potato Lite,Haldiram's,Other snacks,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063325036,Britannia toastea 250gm,Britannia,Cereals & breakfast,1,0,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8904327600887,Peanut butter,MyFitness,Plant-based staples,1,0,1,0,0,0,1,0,1,0,0,0,0,Allergens listed
+8901719117213,Parle HIDEGSEEK,Parle,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906009501017,Full cream milk,Chitale,Dairy,1,0,1,0,1,0,0,0,0,0,0,0,0,Allergens listed
+8909081001185,Bounce Orange Cream Biscuit,Sunfeast,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903553601439,Ram Bandhu Mango pickle,Ram bandhu,Plant-based staples,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906136651951,Pintola High Protein Oats Dark Chocolate,Pintola,Cereals & breakfast,1,0,1,0,1,1,1,1,0,0,0,0,0,Allergens listed
+8906017290071,Bisleri 5L,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063012752,BRITANNIA MiIk Biscuits,,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063014268,,Britannia,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202272608,chocolate,,Chocolate & sweets,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901088069106,Saffola Honey Sundarbans,Saffola,Cereals & breakfast,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901192215864,Catch peri peri,,Other / unknown,0,0,1,0,0,0,0,0,0,0,0,0,0,No allergen data
+7622202252396,OREO 30/-,Oreo,Biscuits & cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901499009708,Kellogg's Choco fills,Kellogg's,Chocolate & sweets,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8906067021502,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901662003618,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719135743,Parle G gold,Parle,Biscuits & cookies,1,0,1,0,1,1,0,0,0,0,0,0,0,Allergens listed
+8903241110793,Pravin,Suhana,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906004560101,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8906090574556,Too Yumm! Namkeen - All In One,Too Yumm,Other snacks,1,0,1,0,0,0,0,1,1,0,0,0,0,Allergens listed
+3948725016258,Dark Fantasy Bourbon,Sunfeast,Biscuits & cookies,1,1,1,0,1,1,1,0,0,0,0,0,0,Allergens listed
+8901063014237,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901030986321,,,Condiments & sauces,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901719126307,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8903363012043,,,Other / unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,No allergen data
+8901063014145,Vita Marie Gold,Britannia Industries Ltd,Biscuits & cookies,1,0,1,0,1,1,1,0,0,0,1,0,0,Allergens listed
